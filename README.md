@@ -7,12 +7,12 @@
 [logo]: https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/The_Elder_Scrolls_5_Skyrim_Logo.png/745px-The_Elder_Scrolls_5_Skyrim_Logo.png?20101214212052 "Logo Title Text 2"
 
 *** 
-|Sommaire| Fini ? 
-|-|-| 
-|Introduction du jeu| [ ] A 
-|C'est quoi ?| [ ] B 
-|Pourquoi avoir choisi ? | [ ] C 
-|Jeu modable ? | [ ] D 
+|Sommaire| 
+|-|
+|Introduction du jeu|
+|C'est quoi ?|  
+|Pourquoi avoir choisi ? | 
+|Jeu modable ? | 
 
   
 ***Introduction*** 
